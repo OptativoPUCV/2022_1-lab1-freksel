@@ -2,3 +2,9 @@ do., 13 de mar. de 2022  2:36:56:
  tests:  0|7
 total_score: 0/70
 9ab4d9d
+do., 13 de mar. de 2022 12:54:39: 
+ exercises.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  1|6
+total_score: 10/70
+6ac0a89
