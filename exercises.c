@@ -59,7 +59,11 @@ typedef struct {
 
 
 Persona* crearPersona(char nombre[], char rut[], int edad) {
-   
+   Persona *my1= (Persona*)malloc(sizeof(Persona));
+   strcpy(my1->nombre,nombre);
+   strcpy(my1->rut,rut);
+   my1->edad=edad;
+   free(my1);
    return NULL;
 }
 
@@ -77,6 +81,7 @@ typedef struct {
 } Vector;
 
 Vector * crearVector(int n) {
+
    return NULL;
 }
 
@@ -86,7 +91,7 @@ Programe la función void asignarValor(Vector * v, int i, int valor),
 la cual asigna el valor a la posición i del vector v.
 */
 void asignarValor(Vector * v, int i, int valor) {
-
+   
 }
 
 /*
