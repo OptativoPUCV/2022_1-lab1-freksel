@@ -77,3 +77,9 @@ do., 13 de mar. de 2022 18:43:11:
  tests:  4|4
 total_score: 30/70
 b0d78d3
+do., 13 de mar. de 2022 18:46:48: 
+ exercises.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  3|4
+total_score: 30/70
+0bdaf6d

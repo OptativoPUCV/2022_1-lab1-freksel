@@ -63,8 +63,8 @@ Persona* crearPersona(char nombre[], char rut[], int edad) {
    strcpy(my1->nombre,nombre);
    strcpy(my1->rut,rut);
    my1->edad=edad;
-   free(my1);
    return my1;
+   free(my1);
 }
 
 /*
